@@ -1,0 +1,12 @@
+{
+  "name": "2fa-show",
+  "version": "1.0.0",
+  "description": "Test 2FA (HOTP) algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["2fa", "hotp", "otp", "totp"],
+  "author": "Hanif Dwy Putra S <hanifdwyputrasembiring@gmail.com>",
+  "license": "MIT"
+}
